@@ -1,0 +1,103 @@
+{
+    "rooms": [
+        {
+            "number": "1",
+            "capacity": 3,
+            "floor": 1,
+            "type": "Standard",
+            "occupied": 3,
+            "students": [
+                "2125UDSM1001",
+                "2125UDSM1001",
+                "2125UDSM1001"
+            ]
+        },
+        {
+            "number": "2",
+            "capacity": 2,
+            "floor": 1,
+            "type": "Standard",
+            "occupied": 2,
+            "students": [
+                "2125UDSM1098",
+                "2125UDSM1040"
+            ]
+        },
+        {
+            "number": "3",
+            "capacity": 4,
+            "floor": 2,
+            "type": "Standard",
+            "occupied": 4,
+            "students": [
+                "2125UDSF1088",
+                "2125UDSF1045",
+                "2125UDSM1001",
+                "2125UDSM1001"
+            ]
+        },
+        {
+            "number": "4",
+            "capacity": 2,
+            "floor": 1,
+            "type": "Standard",
+            "occupied": 2,
+            "students": [
+                "2125UDSM1098",
+                "2125UDSM1040"
+            ]
+        },
+        {
+            "number": "2",
+            "capacity": 2,
+            "floor": 3,
+            "type": "Standard",
+            "occupied": 0,
+            "students": []
+        }
+    ],
+    "students": [
+        {
+            "sid": "2125UDSM1001",
+            "name": "SAI SALPURE ",
+            "gender": "Male",
+            "year": 1,
+            "room": "3"
+        },
+        {
+            "sid": "2125UDSM1001",
+            "name": "OM SALPURE",
+            "gender": "Male",
+            "year": 2,
+            "room": "3"
+        },
+        {
+            "sid": "2125UDSM1098",
+            "name": "OMKAR NEVHAL",
+            "gender": "Male",
+            "year": 1,
+            "room": "4"
+        },
+        {
+            "sid": "2125UDSM1040",
+            "name": "TILAK BHUTADA",
+            "gender": "Male",
+            "year": 1,
+            "room": "4"
+        },
+        {
+            "sid": "2125UDSF1088",
+            "name": "PRANJAL SHARMA",
+            "gender": "Female",
+            "year": 2,
+            "room": "3"
+        },
+        {
+            "sid": "2125UDSF1045",
+            "name": "PRIYA JOSHI",
+            "gender": "Female",
+            "year": 1,
+            "room": "3"
+        }
+    ]
+}
